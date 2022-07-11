@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+font-size: 28px; 
+width: 100%;
+margin: 0px;
+}
+
+.note{
+    color: black;
+    font-size: 18px;
+}
+
+.div_harry_potter{
+    float: middle;
+}
+
+#harry_potter{
+    font-size: 20px;
+    margin: 15px;
+}
+
